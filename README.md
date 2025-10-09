@@ -10,5 +10,5 @@ Added:
 • 2 new fonts;
 • Plain background.
 
-Needing fix:
+Needing update:
 • 3 buttons.
