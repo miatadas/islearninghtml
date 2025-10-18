@@ -1,16 +1,19 @@
-<h1 align="center"> October 3rd | "islearninghtml" v1.0 </h1>
+<h1 align="center"> October 18th | "islearninghtml" v1.1 </h1>
 
-### :sparkles: Added:
+### :sparkles: Updated:
+1. Background;
+2. Composition.
+
+### :heavy_plus_sign: Added:
+1. New drawings.
+
+### :warning: Removed:
 1. Logo;
 2. Logo wiggle;
 3. "Header";
 4. Typewriter animation;
-5. 3 buttons;
+5. Buttons;
 6. Notebook;
-7. 2 "test" texts;
-8. 2 new fonts;
-9. Plain background.
+7. Fonts.
 
-### :warning: Needing update:
-1. 3 buttons.
 <img src="https://github.com/miatadas/islearninghtml/blob/main/Images/logo.png" style="width: 200px; height: 200px;">
